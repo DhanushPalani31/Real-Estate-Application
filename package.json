@@ -1,0 +1,28 @@
+{
+  "name": "real-estate-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node api/index.js",
+    "dev":"nodemon api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhanushPalani31/Real-Estate-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DhanushPalani31/Real-Estate-Application/issues"
+  },
+  "homepage": "https://github.com/DhanushPalani31/Real-Estate-Application#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
